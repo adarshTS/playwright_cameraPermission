@@ -1,0 +1,48 @@
+2024-06-18 16:24:17 - [32minfo[39m: Creating configuration file...
+2024-06-18 16:24:17 - [32minfo[39m: Adding new script(s) in package.json...
+2024-06-18 16:24:17 - [32minfo[39m: Setup completed
+2024-06-18 16:26:52 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:26:52 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:27:44 - [32minfo[39m: Visit https://observability.browserstack.com/builds/4pznrfaufokd2zovucntmyoev8fx6ah6fcrkzqyw to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:27:45 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/cc6ba28f716a47d03402e3ca587fb1694252170b
+2024-06-18 16:27:47 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:28:38 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:28:38 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:28:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/dli0wjx8cajvv70xfog4z1ex1ciq9enefbomxpqs to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:30:35 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-06-18 16:30:36 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/39ba52fda274a6283b6682543e7aecd433e74ac3
+2024-06-18 16:30:38 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:30:41 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:30:41 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:31:11 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ygaarzrtwurygu66dpsqw6jzoj7dbw5d7i7xmqvv to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:32:17 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-06-18 16:32:17 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0e717f7ac37cd29d0d5a8078bedd9281d1185ebb
+2024-06-18 16:32:19 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:32:23 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:32:23 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:33:16 - [32minfo[39m: Visit https://observability.browserstack.com/builds/5b4ageyjeeos4jevo0sioe32wtodgmrl6q9c6xxl to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:33:18 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7a78f4b22b6c455529f3bb2b187c9d7909ff43e6
+2024-06-18 16:33:19 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:36:36 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:36:36 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:37:29 - [32minfo[39m: Visit https://observability.browserstack.com/builds/t050dwvlj1walw2kq2sacdfljwduhg54e49ubjxv to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:37:30 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8ad1cd5b63c9deddf876be8ad0489d62c618957a
+2024-06-18 16:37:31 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:38:39 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:38:40 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:39:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/f0bchajrerfpj7dfc5zjdacyg5itt2paojub55ja to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:39:49 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-06-18 16:39:50 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5f24ef4c5dc72c3e398b3ae732e573d8080c638c
+2024-06-18 16:39:51 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
+2024-06-18 16:39:54 - [32minfo[39m: Reading configs from /Users/adarsh/Documents/CE/playwright_permissions/browserstack.yml
+2024-06-18 16:39:54 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-18 16:40:51 - [32minfo[39m: Visit https://observability.browserstack.com/builds/4r2r8wyhd3impbk83eqek9aj6tjcjja4pe5wg4pe to view build report, insights, and many more debugging information all at one place!
+
+2024-06-18 16:40:52 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fcb8baa4883a10b83daa6a4ccbe461b47f3a2e1c
+2024-06-18 16:40:54 - [32minfo[39m: Deleting /Users/adarsh/Documents/CE/playwright_permissions/playwright-browserstack-sdk.config.js
